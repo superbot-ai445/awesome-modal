@@ -78,6 +78,7 @@ If you'd like to be featured, submit a PR!
 | [helix](https://github.com/thebiodesignlab/helix) | Run protein-folding models on Modal |
 | [breseq-on-modal](https://github.com/tdsone/breseq-on-modal) | Detect mutations in re-sequencing data on Modal|
 | [variant-analysis-evo2](https://github.com/Andreaswt/variant-analysis-evo2) | Create an end-to-end variant effect prediction web app running Evo 2 on Modal
+| [modal-nnUnet](https://github.com/superbot-ai445/awesome-modal) | Train nnU-Net for BraTS segmentation on Modal|
 
 
 ## Weather and Geospatial
